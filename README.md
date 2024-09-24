@@ -13,11 +13,11 @@
 
 
 
-- 🔭 I’m currently working on [Dataviz/Machine Learning Projects](https://github.com/LucasZannoni/Portifolio_Lucas_Zannoni)
+- 🔭 I’m currently working on [Dataviz/Machine Learning Projects](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
 
 - 🌱 I’m currently learning **Machine Learning Methods**
 
-- 👨‍💻 All of my projects are available at [My Portifolio](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)]
+- 👨‍💻 All of my projects are available at [My Portifolio](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
 
 - 💬 Ask me about **Python, Tableau, Power BI**
 
