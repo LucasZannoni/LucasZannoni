@@ -2,24 +2,20 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Lucas Zannoni</h1>
-<h3 align="center">A passionate Data Analyst from Brazil</h3>
+<h3 align="center">A passionate Data Engineer from Brazil</h3>
 
-<h3 align="center">I'm currently a data analyst with passion for creating professional solutions based on data analysis and data insights. My academic experience as a Mechanical Engineer and curiosity in learning new tecnologies help me to keep improving and learning new tools to solve daily-basis data-related problems.</h3>
+<h3 align="center">I'm currently a data engineer with passion for creating professional solutions based on data and data insights. My academic experience as a Mechanical Engineer and curiosity in learning new tecnologies help me to keep improving and learning new tools to solve daily-basis data-related problems.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-
-
-- 🔭 I’m currently working on [Dataviz/Machine Learning Projects](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
-
-- 🌱 I’m currently learning **Machine Learning Methods**
+- 🌱 I’m currently learning **Kubernetes and Container Orchestration**
 
 - 👨‍💻 All of my projects are available at [My Portifolio](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
 
-- 💬 Ask me about **Python, Tableau, Power BI**
+- 💬 Ask me about **Data Lakehouses, Spark, AWS, Pyhton, Data Pipelines...**
 
 - 📫 How to reach me **lucas.zannoni@hotmail.com**
 
