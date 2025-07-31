@@ -1,31 +1,73 @@
+<h1 align="center">Hey there👋, I'm Lucas Zannoni</h1>
 
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+###
 
-<h1 align="center">Hi 👋, I'm Lucas Zannoni</h1>
-<h3 align="center">A passionate Data Engineer from Brazil</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3 align="center">I'm currently a data engineer with passion for creating professional solutions based on data and data insights. My academic experience as a Mechanical Engineer and curiosity in learning new tecnologies help me to keep improving and learning new tools to solve daily-basis data-related problems.</h3>
+###
 
+<h3 align="center">I'm a passionate Data Engineer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+###
 
+<p align="left">I'm a data engineer with passion for creating professional solutions based on data engineering and insights. <br><br>I have broad experience building enterprise-level data environments, such as Data Lakes/Lakehouses and populating them using data pipelines (ETL/ELT), enabling data and business users to extract insights from business information.<br><br>🌱 I’m currently learning Kubernetes and Container Orchestration<br><br>💬 Ask me about Data Lakehouses, Spark, AWS, Pyhton, Data Pipelines, Data Lake Architecture...<br><br>📫 Reach me through my email:  lucas.zannoni@hotmail.com</p>
 
+###
 
-- 🌱 I’m currently learning **Kubernetes and Container Orchestration**
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucaszannoni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [My Portifolio](https://github.com/LucasZannoni/Lucas_Zannoni_Portfolio)
+###
 
-- 💬 Ask me about **Data Lakehouses, Spark, AWS, Pyhton, Data Pipelines...**
+<h3 align="left">🛠 Language and tools</h3>
 
-- 📫 How to reach me **lucas.zannoni@hotmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucaszannoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaszannoni" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lucaszannoni&show_icons=true&locale=en" alt="lucaszannoni" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaszannoni&" alt="lucaszannoni" /></p>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasZannoni/LucasZannoni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasZannoni/LucasZannoni/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasZannoni/LucasZannoni/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=LucasZannoni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
